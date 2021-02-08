@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Lab-1/static/css/main.574ea0ce.chunk.css",
+    "main.js": "/React-Lab-1/static/js/main.47b06602.chunk.js",
+    "main.js.map": "/React-Lab-1/static/js/main.47b06602.chunk.js.map",
+    "runtime-main.js": "/React-Lab-1/static/js/runtime-main.4cc7711c.js",
+    "runtime-main.js.map": "/React-Lab-1/static/js/runtime-main.4cc7711c.js.map",
+    "static/js/2.4721f740.chunk.js": "/React-Lab-1/static/js/2.4721f740.chunk.js",
+    "static/js/2.4721f740.chunk.js.map": "/React-Lab-1/static/js/2.4721f740.chunk.js.map",
+    "index.html": "/React-Lab-1/index.html",
+    "static/css/main.574ea0ce.chunk.css.map": "/React-Lab-1/static/css/main.574ea0ce.chunk.css.map",
+    "static/js/2.4721f740.chunk.js.LICENSE.txt": "/React-Lab-1/static/js/2.4721f740.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/React-Lab-1/static/media/wallpaper-0.2987fff8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cc7711c.js",
+    "static/js/2.4721f740.chunk.js",
+    "static/css/main.574ea0ce.chunk.css",
+    "static/js/main.47b06602.chunk.js"
+  ]
+}
