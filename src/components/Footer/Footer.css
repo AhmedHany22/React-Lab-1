@@ -1,0 +1,66 @@
+.ftrFlxCnt {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  height: 200px;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+.contactBtn {
+  color: rgb(255, 255, 255);
+  border-color: rgb(255, 255, 255);
+}
+
+.contactBtn:hover {
+  color: rgb(255, 255, 255);
+  border-color: rgb(56, 56, 56);
+  background-color: rgb(56, 56, 56);
+}
+
+.contactBtn:active {
+  color: rgb(255, 255, 255) !important;
+  border-color: rgb(42, 42, 42) !important;
+  background-color: rgb(51, 51, 51) !important;
+  box-shadow: 0px 0px 0px !important;
+}
+
+.contactBtn:focus {
+  box-shadow: 0px 0px 0px;
+}
+
+.myAnchor {
+  color: white;
+}
+
+.myAnchor:hover {
+  color: rgb(121, 121, 121);
+}
+
+.lftFtrCont {
+  display: inline-block;
+  width: 300px;
+  height: 100px;
+  color: white;
+}
+
+.rightFtrCont {
+  display: inline-block;
+  width: 300px;
+  height: 100px;
+  color: white;
+  text-align: right;
+}
+
+.SMicons {
+  font-size: 20px;
+}
+
+.lftHdr {
+  margin-bottom: 15px;
+}
+
+.fa{
+  margin: 0 2%;
+}
