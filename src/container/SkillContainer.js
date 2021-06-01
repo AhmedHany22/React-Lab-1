@@ -16,7 +16,7 @@ export default class SkillContainer extends React.Component {
   }
   render() {
     return (
-      <div className = "row bg-dark py-5" >
+      <div className = "row bg-dark py-5 mx-0" >
         <div className = "container" >
           <div className = "col-sm-12 " >
             <div className = "row " >
